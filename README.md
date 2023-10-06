@@ -20,9 +20,7 @@ The paper can be found here [arxiv.org 2309.10668](2309.10668)
 
 ### Summary
 
-```text
 The paper titled "Language Modeling Is Compression" by Grégoire Delétang, Anian Ruoss, Paul-Ambroise Duquenne, Elliot Catt, Tim Genewein, Christopher Mattern, Jordi Grau-Moya, Li Kevin Wenliang, Matthew Aitchison, Laurent Orseau, Marcus Hutter, and Joel Veness, published by Google DeepMind, advocates for viewing the prediction problem through the lens of compression. The authors evaluate the compression capabilities of large language models and demonstrate that these models can be powerful general-purpose predictors. They provide insights into scaling laws, tokenization, and in-context learning. The authors also show that large language models can compress different types of data, such as ImageNet patches and LibriSpeech samples, to a smaller size compared to domain-specific compressors like PNG or FLAC. They explore the equivalence between prediction and compression, which allows compressors to be used as conditional generative models.
-```
 
 ### Twitter Thread
 
@@ -52,9 +50,7 @@ The paper titled "Language Modeling Is Compression" by Grégoire Delétang, Ania
 
 ### DALL-E Prompt
 
-```text
 Create an image that represents the groundbreaking research on language modeling and compression by Delétang et al. The image should showcase the versatility and power of large language models in predicting and compressing various types of data. It should depict a futuristic AI laboratory with language models at work, compressing and generating different forms of data such as text, images, and audio. The image should also highlight the connection between prediction and compression, symbolizing the exciting possibilities that arise from using compressors as conditional generative models.
-```
 
 #### Bing Image Creator Output Examples (DALL-E 3)
 
